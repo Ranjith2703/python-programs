@@ -1,4 +1,4 @@
 
 import pywhatkit
 
-pywhatkit.sendwhatmsg("+919865102211","☠️",10,44)
+pywhatkit.sendwhatmsg("enter the phone number","☠️",10,44)# enter phone number , message, time

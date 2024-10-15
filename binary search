@@ -16,6 +16,6 @@ class Solution:
 
 arr = [2, 3, 4, 10, 40]
 n = len(arr)
-k = 10
+k = 10  #o(logn)
 
 solution = Solution()
